@@ -1,0 +1,9 @@
+2019-09-11 21:47:47 INFO  Selenium4Linkss:21 - Clicked on Manual FAQs
+2019-09-11 21:49:25 INFO  Selenium4Linkss:39 - Clicked on Core Java FAQs
+2019-09-11 21:49:26 INFO  Selenium4Linkss:21 - Clicked on Manual FAQs
+2019-09-11 21:49:28 INFO  Selenium4Linkss:30 - Clicked on Selenium FAQs
+2019-09-11 21:57:13 DEBUG Log4jTestDemo:12 - Debug Msg
+2019-09-11 21:57:13 INFO  Log4jTestDemo:13 - Information
+2019-09-11 21:57:13 WARN  Log4jTestDemo:14 - Warn Msg
+2019-09-11 21:57:13 ERROR Log4jTestDemo:15 - Error msg
+2019-09-11 21:57:13 FATAL Log4jTestDemo:16 - Fatal msg
